@@ -1,5 +1,11 @@
 # auri
 
+This is an Android based AR food exploration application, which can help customers detect and position a list of interested restaurants with camera. 
+
+Here is the demo: https://www.youtube.com/watch?v=jqC6EMmIGUU&t=2s
+
+
+
 Phone Requirements
 Must run Android 28+
 
